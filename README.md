@@ -14,4 +14,4 @@ To complete the task, you must get an average score of .5 over 100 consecutive e
 
 To set up your Python environment, go here: https://github.com/udacity/deep-reinforcement-learning#dependencies
 
-To download the Unity Environment, follow the steps here: https://github.com/udacity/deep-reinforcement-learning/tree/master/p2_continuous-control
+To download the Unity Environment, follow the steps here: https://github.com/Unity-Technologies/ml-agents/blob/main/docs/Learning-Environment-Examples.md#tennis
