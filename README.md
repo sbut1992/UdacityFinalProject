@@ -14,4 +14,13 @@ To complete the task, you must get an average score of .5 over 100 consecutive e
 
 To set up your Python environment, go here: https://github.com/udacity/deep-reinforcement-learning#dependencies
 
-To download the Unity Environment, follow the steps here: https://github.com/Unity-Technologies/ml-agents/blob/main/docs/Learning-Environment-Examples.md#tennis
+To download the Unity Tennis Environment, choose one of the following options depending on your operating system:
+
+Windows 64: https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Windows_x86_64.zip
+Windows 32: https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Windows_x86.zip
+Linux: https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Linux.zip
+Mac: https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis.app.zip
+
+
+
+To run the code, open Tennis.ipynb and run all cells.
